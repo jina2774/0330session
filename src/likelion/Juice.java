@@ -18,4 +18,3 @@ public class Juice extends Beverage {
         System.out.println("설탕: " + sugar + "g");
     }
 }
-
